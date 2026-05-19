@@ -8,6 +8,8 @@ jobs:
   build-dita:
     name: Build DITA
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
@@ -49,7 +51,7 @@ jobs:
             fox.jason.prismjs
           build: |
               dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes"
-         # If you have a DITAVal, replace the previous line with the following:
+          # If you have a DITAVal, replace the previous line with the following:
             # dita -i dita/document.ditamap -o out/pdf -f pdf --theme=.github/themes/theme.yaml --org.dita.index.skip="yes" --filter=myfilter.ditaval
       - name: Upload PDF 📚
         uses: actions/upload-artifact@v4
