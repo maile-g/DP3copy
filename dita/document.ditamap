@@ -4,7 +4,7 @@
     <title>User Guide for UNBREAKcable Car FM Transmitter</title>
     <topicref href="index.dita">
         <topicref href="UNBREAKcableC1.dita"/>
-        <topicref href="subtopic2.dita"/>
+        <topicref href="UNBREAKcableC2.dita"/>
     </topicref>
     <topicref href="topic2.dita"/>
 </map>
