@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC2">
-    <title>Concept Title</title>
-    <shortdesc>Brief description of this concept.</shortdesc>
+    <title>What are the Two Audio Inputs?</title>
+    <shortdesc>The two audio inputs this device provides is Bluetooth Mode and USB Flash Drive Mode. The following section defines and covers the differences between using these two inputs.</shortdesc>
     <conbody>
-        <p>Conceptual information goes here.</p>
-        <section>
-            <title>Section Title</title>
-            <p>Additional conceptual information.</p>
+        <section id="Bluetooth-Mode">
+            <title>Bluetooth Mode:</title>
+            <ul> Pros:
+                <li> Provides convenient wireless streaming through mobile/electronic devices.
         </section>
     </conbody>
 </concept>
