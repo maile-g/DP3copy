@@ -7,12 +7,12 @@
         <section id="core-components">
             <title>Core Components of the Device:<image
                     href="images/USB Flash Drive PortEDIT.jpg" id="image_q3r_2jl_jjc" 
-                    placement="break"><alt> iamge that shows labeled components of device</alt></image></title>
+                    placement="break"><alt> image that shows labeled components of device</alt></image></title>
             <ul>
                 <li>1. USB Flash Drive Port: USB-A audio port for playing music files on USB thumb drive. </li>
                 <li>2. MIC: Used for hands-free calling and activating voice assistants on connected mobile device.</li>
-                <li>3. QC 3.0 Port: Quick-charge (QC) USB-A port deisgned for rapid charging.</li>
-                <li>4. PD USB-C Port: Power Delivery (PD) type-c port also for rapid charging.</li>
+                <li>3. QC 3.0 Port: Quick-charge (QC) USB-A port designed for rapid charging.</li>
+                <li>4. PD USB-C Port: Power Delivery (PD) type-C port also for rapid charging.</li>
                 <li>5. LED Display: Screen that displays radio frequency and car battery voltage.</li>
                 <li>6. Mode Switch: allows user to toggle between Bluetooth Mode and USB Flash Drive Mode.</li>
                 <li>7. (CH) Channel Button: used to manually switch frequencies on the FM transmitter.</li>
