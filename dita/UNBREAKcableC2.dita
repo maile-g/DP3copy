@@ -6,18 +6,18 @@
     <conbody>
         <section id="Unused-Frequencies">
             <title>Unused "Static" Frequencies:</title>
-            <ol>
+            <ul>
                 <li>Radio stations that produce no vocals or music, just "static" or rustling, also referred to as white noise.</li>
                 <li>Using these stations when using an FM transmitter device minimizes audio interference and static, creating clear sound when streaming music, or using seperate mobile device features (hands-free calling and voice assistants) </li>
-            </ol>
+            </ul>
         </section>
         <section id="Active-Frequencies">
             <title>Active Frequencies:</title>
-            <ol>
+            <ul>
                 <li>Active or working stations currently boradcasting a listenable audio signal used by local radio stations</li>
                 <li>"Busy" or active stations can cause static due to conflicting frequencies which is why they are not ideal when using the FM transmitter device.
                 </li>
-            </ol>
+            </ul>
         </section>
     </conbody>
 </concept>
