@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC2">
-    <title>Concept Title</title>
-    <shortdesc>Brief description of this concept.</shortdesc>
+    <title>Understanding FM Frequencies</title>
+    <shortdesc>To avoid interference when broadcasting audio through the devie, users must find an unused station on their car's FM radio. The following will explain the difference between unused and active frequencies.</shortdesc>
     <conbody>
-        <p>Conceptual information goes here.</p>
-        <section>
-            <title>Section Title</title>
-            <p>Additional conceptual information.</p>
+        <section id="Unused-Frequencies">
+            <title>Unused "Static" Frequencies:</title>
+            <ol>
+                <li>Radio stations that produce no vocals or music, just "static" or rustling, also referred to as white noise.</li>
+                <li>Using these stations when using an FM transmitter device minimizes audio interference and static, creating clear sound when streaming music, or using seperate mobile device features (hands-free calling and voice assistants) </li>
+            </ol>
+        </section>
+        <section id="Active-Frequencies">
+            <title>Active Frequencies:</title>
+            <ol>
+                <li>Active or working stations currently boradcasting a listenable audio signal used by local radio stations</li>
+                <li>"Busy" or active stations can cause static due to conflicting frequencies which is why they are not ideal when using the FM transmitter device.
+                </li>
+            </ol>
         </section>
     </conbody>
 </concept>
