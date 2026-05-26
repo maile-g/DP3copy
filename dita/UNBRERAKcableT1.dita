@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBRERAKcableT1">
-    <title>Task Title</title>
-    <shortdesc>Brief description of this task</shortdesc>
+    <title>Setting-Up the FM Transmitter in Your Car</title>
+    <shortdesc>To begin using the device, you need to set it up to your car's radio station.</shortdesc>
     <taskbody>
         <context>
-            <p>Context and background information.</p>
+            <p>Setting up the device includes plugging the device into your car and channeling an unused radio frequency.</p>
         </context>
         <steps>
             <step>
-                <cmd>First step command.<image href="images/T1Step1.jpg" placement="inline"
-                        id="image_krj_nnm_jjc"/></cmd>
+                <cmd>Tune the car radio to an unused FM radio frequency.<image href="images/T1Step1.jpg" placement="inline"
+                        id="image_krj_nnm_jjc"><alt></alt>image of car radio on an unused FM frequency.</image></cmd>
             </step>
             <step>
-                <cmd>Second step command.<image href="images/T1Step2.JPG" placement="inline"
-                        id="image_flc_pnm_jjc"/></cmd>
+                <cmd>Plug in the device into your car's cigarette lighter or power port.<image href="images/T1Step2.JPG" placement="inline"
+                        id="image_flc_pnm_jjc"><alt>transmitter plugged into car's power port.</alt></image></cmd>
             </step>
             <step>
-                <cmd>Step 3<image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc"/></cmd>
+                <cmd>Locate and Press the CH Channel Button<image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc"><alt> </alt>image of device locating CH Channel Button</image></cmd>
             </step>
             <step>
-                <cmd>Step 4<image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc"/></cmd>
+                <cmd>Toggle the Multi-Function Button left/right to match the device's radio frequency to the pre-selected frequency on your car radio.<image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc"><alt>image of matching frequency of car radio and transmitter</alt></image></cmd>
             </step>
         </steps>
         <result>
-            <p>Expected result after completing this task.</p>
+            <p>The car radio is succesfully connected to the device if there is no static or interference.</p>
         </result>
     </taskbody>
 </task>
