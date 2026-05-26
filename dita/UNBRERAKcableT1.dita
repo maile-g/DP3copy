@@ -11,25 +11,29 @@
             <step>
                 <note id="note_ckm_4rm_jjc" type="note">LED Display will automatically turn on when
                     plugged in.</note>
-                <cmd>Tune the car radio to an unused FM radio frequency.<image
-                        href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
-                        alt="image of car radio on an unused FM frequency"/></cmd>
+                <cmd>Tune the car radio to an unused FM radio frequency.
+                    <image href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc">
+                        <alt>image of car radio on an unused FM frequency</alt>
+                    </image></cmd>
             </step>
             <step>
-                <cmd>Plug in the device into your car's cigarette lighter or power port.<image
-                        href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc"
-                        alt="transmitter plugged into car's power port."/></cmd>
+                <cmd>Plug in the device into your car's cigarette lighter or power port.
+                    <image href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc">
+                        <alt>transmitter plugged into car's power port.</alt>
+                    </image></cmd>
             </step>
             <step>
-                <cmd>Locate and Press the CH Channel Button<image href="images/T1Step3.jpg"
-                        id="image_bx4_5nm_jjc" placement="break"
-                        alt="image of device locating CH Channel Button"/></cmd>
+                <cmd>Locate and Press the CH Channel Button
+                    <image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc" placement="break">
+                        <alt>image of device locating CH Channel Button</alt>
+                    </image></cmd>
             </step>
             <step>
                 <cmd>Toggle the Multi-Function Button left/right to match the device's radio
-                    frequency to the pre-selected frequency on your car radio.<image
-                        href="images/T1Step4.jpg" id="image_xjb_xnm_jjc" placement="break"
-                        alt="image of matching frequency of car radio and transmitter"/></cmd>
+                    frequency to the pre-selected frequency on your car radio.
+                    <image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc" placement="break">
+                        <alt>image of matching frequency of car radio and transmitter</alt>
+                    </image></cmd>
             </step>
         </steps>
         <result>
