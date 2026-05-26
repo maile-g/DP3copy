@@ -2,21 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBRERAKcableT1">
     <title>Task Title</title>
-    <shortdesc>Brief description of this task.</shortdesc>
+    <shortdesc>Brief description of this task</shortdesc>
     <taskbody>
-        <prereq>
-            <p>Prerequisites for this task.</p>
-        </prereq>
         <context>
             <p>Context and background information.</p>
         </context>
         <steps>
             <step>
-                <cmd>First step command.</cmd>
-                <info>Additional information about this step.</info>
+                <cmd>First step command.<image href="images/T1Step1.jpg" placement="inline"
+                        id="image_krj_nnm_jjc"/></cmd>
             </step>
             <step>
-                <cmd>Second step command.</cmd>
+                <cmd>Second step command.<image href="images/T1Step2.JPG" placement="inline"
+                        id="image_flc_pnm_jjc"/></cmd>
+            </step>
+            <step>
+                <cmd>Step 3<image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc"/></cmd>
+            </step>
+            <step>
+                <cmd>Step 4<image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc"/></cmd>
             </step>
         </steps>
         <result>
