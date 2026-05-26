@@ -2,12 +2,35 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC2">
     <title>What are the Two Audio Inputs?</title>
-    <shortdesc>The two audio inputs this device provides is Bluetooth Mode and USB Flash Drive Mode. The following section defines and covers the differences between using these two inputs.</shortdesc>
+    <shortdesc>The two audio inputs this device provides are Bluetooth Mode and USB Flash Drive Mode. The following section defines and covers the differences between using these two inputs.</shortdesc>
     <conbody>
         <section id="Bluetooth-Mode">
-            <title>Bluetooth Mode:</title>
-            <ul> Pros:
-                <li> Provides convenient wireless streaming through mobile/electronic devices.
+            <title>Bluetooth Mode</title>
+            <p>When in this mode, the FM transmitter wirelessly receives audio from your mobile/electronic device through Bluetooth connection and broadcasts it over an FM radio frequency.</p>
+            <p>Pros:</p>
+            <ul>
+                <li>Provides convenient wireless streaming through mobile/electronic devices.</li>
+                <li>Offers hands-free calling and limits phone use for safer driving.</li>
+            </ul>
+            <p>Cons:</p>
+            <ul>
+                <li>Audio is compressed wirelessly which can cause a slight loss in "crispness" of sound.</li>
+                <li>Being a secondary wireless relay, (ie: Phone connects to transmitter which connects to car radio) it is more prone to interference or static.</li>
+            </ul>
+        </section>
+        <section id="USB-Flash-Drive-Mode">
+            <title>USB Flash Drive Mode</title>
+            <p>In this mode, you can play music files stored on a USB thumb drive by plugging it into the USB Flash Drive Port on the FM transmitter. The device will read the music files and broadcast the audio over an FM radio frequency.</p>
+            <p>Pros:</p>
+            <ul>
+                <li>Allows playback of music files directly from a USB flash drive.</li>
+                <li>Does not require a paired mobile device for audio playback.</li>
+            </ul>
+            <p>Cons:</p>
+            <ul>
+                <li>Requires compatible audio file formats on the USB drive.</li>
+                <li>Does not provide hands-free calling or wireless streaming features.</li>
+            </ul>
         </section>
     </conbody>
 </concept>
