@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC2">
-    <title>Understanding FM Frequencies</title>
+    <title>Understanding FM Frequencies:</title>
     <shortdesc>To avoid interference when broadcasting audio through the devie, users must find an unused station on their car's FM radio. The following will explain the difference between unused and active frequencies.</shortdesc>
     <conbody>
         <section id="Unused-Frequencies">
