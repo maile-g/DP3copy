@@ -2,12 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC5">
     <title>Bluetooth Calling Features of the Multi-Function Button:</title>
-    <shortdesc>This button also has multiple features for Bluetooth calling allowing for hands-free operation and minimal disractions.</shortdesc>
+    <shortdesc>This button also has multiple features for Bluetooth calling allowing for hands-free
+        operation and minimal distractions.</shortdesc>
     <conbody>
-        <p>Conceptual information goes here.</p>
-        <section>
-            <title>Section Title</title>
-            <p>Additional conceptual information.</p>
-        </section>
+        <image href="images/MPButtonEDIT.jpg" id="image_fnl_yfm_jjc"/>
     </conbody>
 </concept>
+<?oxy_options track_changes="on"?>
