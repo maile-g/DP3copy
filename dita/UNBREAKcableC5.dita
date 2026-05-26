@@ -5,7 +5,16 @@
     <shortdesc>This button also has multiple features for Bluetooth calling allowing for hands-free
         operation and minimal distractions.</shortdesc>
     <conbody>
-        <image href="images/MPButtonEDIT.jpg" id="image_fnl_yfm_jjc"/>
+        <p> 
+            <image href="images/MPButtonEDIT.jpg" id="image_fnl_yfm_jjc"><alt>Image labeling multi-function button on the device.</alt></image>
+            <ul>
+                <li>Short Press 1x to Answer Call.</li>
+                <li>Short Press 1X to End Call.</li>
+                <li>Long Press 1x to Reject Call.</li>
+                <li>Long Press 1x to activate Voice Control (i.e. Siri/Google Assistant))</li>
+                <li>Short Press 2x to redial the last phone number called.</li>
+            </ul>
+        </p>
     </conbody>
 </concept>
 <?oxy_options track_changes="on"?>
