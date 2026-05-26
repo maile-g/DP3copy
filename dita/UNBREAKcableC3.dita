@@ -23,12 +23,14 @@
             <p>In this mode, you can play music files stored on a USB thumb drive by plugging it into the USB Flash Drive Port on the FM transmitter. The device will read the music files and broadcast the audio over an FM radio frequency.</p>
             <p>Pros:</p>
             <ul>
-                <li>Allows playback of music files directly from a USB flash drive.</li>
-                <li>Does not require a paired mobile device for audio playback.</li>
+                <li>Superior audio quality by directly playing locally stored audio files through USB, eliminating extra compression and distortion creating clearer sound.</li>
+                <li>More reliable connection over Bluetooth by providing a more stable audio feed.</li>
+                <li>Limits use of mobile/electronic devices, preserving battery life.</li>
             </ul>
             <p>Cons:</p>
             <ul>
-                <li>Requires compatible audio file formats on the USB drive.</li>
+                <li>Have to consistently maintain and update library of music files.</li>
+                <li>Potential of physical wear of the audio USB drive/port through repeated use.</li>
                 <li>Does not provide hands-free calling or wireless streaming features.</li>
             </ul>
         </section>
