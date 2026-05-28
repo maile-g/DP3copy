@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBREAKcableT3">
-    <title>Task Title</title>
-    <shortdesc>Brief description of this task.</shortdesc>
+    <title>Using USB Flash Drive Mode (Audio Inputs)</title>
+    <shortdesc>Using USB Flash Mode allows you to play downloaded music through a thumb drive in your car without needing to use a mobile device. The transmiter will read the music files and broadcast them over your car's radio</shortdesc>
     <taskbody>
-        <prereq>
-            <p>Prerequisites for this task.</p>
-        </prereq>
         <context>
-            <p>Context and background information.</p>
+            <p>To use this mode, you will need to ensure you go through the set-up of the transmitter in your car. Once done, you can quickly begin the steps on using this input option. </p>
         </context>
         <steps>
             <step>
