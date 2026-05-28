@@ -12,7 +12,7 @@
         </context>
         <steps>
             <step>
-                <cmd>First step command.</cmd>
+                <cmd>Set Baseline Volume.</cmd>
                 <info>Additional information about this step.</info>
             </step>
             <step>
