@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBREAKcableT3">
-    <title>Task Title</title>
-    <shortdesc>Brief description of this task.</shortdesc>
+    <title>Adjusting Volume and Using Bass Boost Button</title>
+    <shortdesc>Adjusting the audio of your car radio, your connected devices, and utilizing the Bass
+        Boost Button improves the quality of sound and provides bass music quality.</shortdesc>
     <taskbody>
-        <prereq>
-            <p>Prerequisites for this task.</p>
-        </prereq>
         <context>
-            <p>Context and background information.</p>
+            <p>To obtain the best volume and audio quality, a baseline audio needs to be set and the
+                bass boost button on the device can be used to improve the richness of sound as it
+                plays through the car's radio.</p>
         </context>
         <steps>
             <step>
