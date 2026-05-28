@@ -13,8 +13,8 @@
             </step>
             <step>
                 <note id="note_sgs_cxf_kjc">If the transmitter stays in the default mode
-                    (Bluetooth), press the Mode Switch Button once to switch to USB Flash Drive
-                    Mode.</note>
+                    (Bluetooth), short press the Mode Switch Button once to switch to USB Flash
+                    Drive Mode.</note>
                 <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the
                     music port.</cmd>
                 <stepresult>The transmitter should automatically detect the drive and begin playing
