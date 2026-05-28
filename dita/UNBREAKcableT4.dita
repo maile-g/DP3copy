@@ -13,7 +13,7 @@
         <steps>
             <step>
                 <cmd>Set Baseline Volume.</cmd>
-                <info>Additional information about this step.</info>
+                <info>A baseline volume level refers to an optimal,undistorted sound level .</info>
             </step>
             <step>
                 <cmd>Second step command.</cmd>
