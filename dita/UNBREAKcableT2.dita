@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBREAKcableT2">
-    <title>Task Title</title>
-    <shortdesc>Brief description of this task.</shortdesc>
+    <title>Using Bluetooth Mode (Audio Inputs)</title>
+    <shortdesc>Bluetooth mode allows for easy connectivity through your mobile/electronic device to
+        stream music and use the hands-free calling features through the audio of an FM frequency on
+        your car's radio.</shortdesc>
     <taskbody>
-        <prereq>
-            <p>Prerequisites for this task.</p>
-        </prereq>
         <context>
-            <p>Context and background information.</p>
+            <p>After setting up the transmitter in your car, you can begin the process of connecting
+                your mobile device to the FM transmitter using the default audio input, Bluetooth
+                Mode.</p>
         </context>
         <steps>
             <step>
-                <cmd>First step command.</cmd>
-                <info>Additional information about this step.</info>
+                <cmd>Go to the Bluetooth settings on your mobile device.</cmd>
             </step>
             <step>
-                <cmd>Second step command.</cmd>
+                <cmd>Ensure Bluetooth is toggled on and wait for nearby or "other" devices to be
+                    scanned by your mobile device.</cmd>
+            </step>
+            <step>
+                <cmd>Look for the transmitter's device name "UBCH261" and tap on the name to
+                    connect</cmd>
             </step>
         </steps>
         <result>
-            <p>Expected result after completing this task.</p>
+            <p>The mobile device will show that the transmitter is connected and a sound prompt from
+                the transmitter will also notify that the Bluetooth connection is successful, and
+                you can begin streaming audio from your connected device</p>
         </result>
     </taskbody>
 </task>
