@@ -5,10 +5,10 @@
     <shortdesc>This device is a simple plug-in car adapter that broadcasts audio over an used radio frequency on your car's radio and is used in older vehicles to provide modern streaming capabilit[...]</shortdesc>
     <conbody>
         <section id="core-components">
-            <title>Core Components of the
-                    Device:<?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035503+0000"?><image
-                    href="images/USBFlashDrivePort.jpg" placement="break" id="image_jrt_kpb_kjc"
-                    alt="image that shows labeled components of device"/><?oxy_insert_end?></title>
+            <title>Core Components of the Device:</title>
+                    <p><image
+                    href="images/USBFlashDrivePort.jpg" placement="break" id="image_jrt_kpb_kjc">
+                    <alt>image that shows labeled components of device</alt></image></p>
             <ol>
                 <li>USB Flash Drive Port: USB-A audio port for playing music files on USB thumb drive. </li>
                 <li>MIC: Used for hands-free calling and activating voice assistants on connected mobile/electronic device.</li>
