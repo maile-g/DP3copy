@@ -15,31 +15,31 @@
             <step>
                 <cmd>Go to the Bluetooth settings on your mobile device.<image
                         href="images/T2Pic1Copy.jpg" placement="break" id="image_cyw_c5b_kjc"
-                        height="340" width="175"
-                        alt="screenshot of Bluetooth settings on moblie device."/></cmd>
+                        height="340" width="175">
+                        <alt>"screenshot of Bluetooth settings on moblie device."</alt></image></cmd>
             </step>
             <step>
                 <cmd>Ensure Bluetooth is toggled on and wait for nearby or "other" devices to be
                     scanned by your mobile device.<image href="images/T2Pic2Copy.jpg"
-                        placement="break" id="image_vyn_fyb_kjc"
-                        alt="screenshot of Bluetooth toggled on on mobile device and scanninng for nearby or other devices. "
-                        width="175" height="340"/></cmd>
+                        placement="break" id="image_vyn_fyb_kjc" width="175" height="340">
+                        <alt>"screenshot of Bluetooth toggled on on mobile device and scanninng for nearby or other devices."
+</alt></image></cmd>
             </step>
             <step>
                 <cmd>Look for the transmitter's device name "UBCH261" and tap on the name to
                         connect<image href="images/T2Pic3Copy.jpg" placement="break"
-                        id="image_amt_vwb_kjc"
-                        alt="Screenshot of transmitter's name on mobile device." height="340"
-                        width="175"/></cmd>
+                        id="image_amt_vwb_kjc" height="340"
+                        width="175">
+                        <alt>"Screenshot of transmitter's name on mobile device."</alt></image></cmd>
             </step>
         </steps>
         <result>
             <p>The mobile device will show that the transmitter is connected and a sound prompt from
                 the transmitter will also notify that the Bluetooth connection is successful, and
-                you can begin streaming audio from your connected device<image
+                you can begin streaming audio from your connected device.<image
                     href="images/T2Pic4Result.jpg" placement="break" id="image_sv3_2zb_kjc"
-                    height="340" width="175"
-                    alt="Screenshot of tranmistter connected to mobile device."/></p>
+                    height="340" width="175">
+                    <alt>"Screenshot of tranmistter connected to mobile device."</alt></image></p>
         </result>
     </taskbody>
 </task>
