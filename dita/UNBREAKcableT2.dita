@@ -17,8 +17,8 @@
                 <info>
                     <p>
                         <image href="images/T2Pic1Copy.jpg" placement="break" id="image_cyw_c5b_kjc"
-                            height="380" width="175"
-                            alt="screenshot of Bluetooth settings on moblie device."/>
+                            height="380" width="175">
+                            <alt>"screenshot of Bluetooth settings on moblie device."</alt></image>
                     </p>
                 </info>
             </step>
@@ -28,9 +28,8 @@
                 <info>
                     <p>
                         <image href="images/T2Pic2Copy.jpg" placement="break" height="380"
-                            width="175" id="image_c4p_yvb_kjc"
-                            alt="screenshot of Bluetooth toggle on on mobile device and the scanning of nearby or other devices."
-                        />
+                            width="175" id="image_c4p_yvb_kjc">
+                            <alt>"screenshot of Bluetooth toggle on on mobile device and the scanning of nearby or other devices."</alt></image>
                     </p>
                 </info>
             </step>
