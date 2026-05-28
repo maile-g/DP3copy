@@ -9,15 +9,14 @@
         </context>
         <steps>
             <step>
-                <cmd>First step command.</cmd>
-                <info>Additional information about this step.</info>
+                <cmd>Locate the USB Flash Drive Port on your FM Transmitter.</cmd>
             </step>
             <step>
-                <cmd>Second step command.</cmd>
+                <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the music port.</cmd>
+            </step>
+            <step>
+                <cmd>Use the Multi-Function Button music playing features to control music playback on the drive.</cmd>
             </step>
         </steps>
-        <result>
-            <p>Expected result after completing this task.</p>
-        </result>
     </taskbody>
 </task>
