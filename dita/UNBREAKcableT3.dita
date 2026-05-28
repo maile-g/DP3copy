@@ -17,6 +17,8 @@
                     Mode.</note>
                 <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the
                     music port.</cmd>
+                <stepresult>The transmitter should automatically detect the drive and begin playing
+                    music files.</stepresult>
             </step>
             <step>
                 <cmd>Use the Multi-Function Button music playing features to control music playback on the drive.</cmd>
