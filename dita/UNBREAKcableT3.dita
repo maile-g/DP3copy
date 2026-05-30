@@ -41,6 +41,12 @@
             </step>
         </steps>
         <result id="result_vk4_kwt_kjc">You are now successfully using USB Flash Drive Mode and can
-            listen to your downloaded music in your car.</result>
+            listen to your downloaded music in your car.<note id="note_rff_5x5_kjc" type="important"
+                >A limitation when using these modes is you cannot play audio from the thumb drive
+                and a Bluetooth connected device at the same time. However, the device has Bluetooth
+                priority, meaning when making calls or using voice controls, USB music files will
+                automatically pause and switch to the connected devices' audio. When call ends or
+                voice controls is no longer being used, USB music files will automatically
+                resume.</note></result>
     </taskbody>
 </task>
