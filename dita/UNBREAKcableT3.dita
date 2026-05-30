@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBREAKcableT3">
     <title>Using USB Flash Drive Mode (Audio Inputs)</title>
-    <shortdesc>Using USB Flash Mode allows you to play downloaded music through a thumb drive in your car without needing to use a mobile device. The transmiter will read the music files and broadcast them over your car's radio</shortdesc>
+    <shortdesc>Using USB Flash Mode allows you to play downloaded music through a thumb drive in
+        your car without needing to use a mobile device. The transmitter will read the music files
+        and broadcast them over your car's radio</shortdesc>
     <taskbody>
         <context>
             <p>To use this mode, you will need to ensure you go through the set-up of the transmitter in your car. Once done, you can quickly begin the steps on using this input option. </p>
@@ -12,8 +14,8 @@
                 <cmd>Locate the USB Flash Drive Port on your FM Transmitter.</cmd>
             </step>
             <step>
-                <note id="note_sgs_cxf_kjc" type="tip">If the transmitter stays in the default mode
-                    (Bluetooth), short press the Mode Switch Button once to switch to USB Flash
+                <note id="note_sgs_cxf_kjc" type="trouble">If the transmitter stays in the default
+                    mode (Bluetooth), short press the Mode Switch Button once to switch to USB Flash
                     Drive Mode.</note>
                 <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the
                     music port.</cmd>
@@ -21,7 +23,11 @@
                     music files.</stepresult>
             </step>
             <step>
-                <cmd>Use the Multi-Function Button music playing features to control music playback on the drive.</cmd>
+                <note id="note_kd4_nyt_kjc" type="note">See the table,<xref
+                        href="UNBREAKcableC4.dita#UNBREAKcableC4/table_gyc_5tt_kjc"/> for details on
+                    the Multi-Function-Button's music-playing features</note>
+                <cmd>Use the Multi-Function Button music playing features to control music playback
+                    on the drive. </cmd>
             </step>
         </steps>
         <result id="result_vk4_kwt_kjc">You are now successfully using USB Flash Drive Mode and can
