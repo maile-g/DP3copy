@@ -2,19 +2,26 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="UNBREAKcableC2">
     <title>Understanding FM Frequencies:</title>
-    <shortdesc>To avoid interference when broadcasting audio through the devie, users must find an unused station on their car's FM radio. The following will explain the difference between unused and active frequencies.</shortdesc>
+    <shortdesc>To avoid interference when broadcasting audio through the device, users must find an
+        unused station on their car's FM radio. The following will explain the difference between
+        unused and active frequencies.</shortdesc>
     <conbody>
         <section id="Unused-Frequencies">
             <title>Unused "Static" Frequencies:</title>
             <ul>
-                <li>Radio stations that produce no vocals or music, just "static" or rustling, also referred to as white noise.</li>
-                <li>Using these stations when using an FM transmitter device minimizes audio interference and static, creating clear sound when streaming music, or using seperate mobile device features (hands-free calling and voice assistants) </li>
+                <li>Empty radio stations that produce no vocals or music, just "static" or rustling,
+                    also referred to as white noise.</li>
+                <li>Using these stations when using an FM transmitter device minimizes audio
+                    interference and static, creating clear sound when streaming music, or using
+                    separate mobile device features (hands-free calling, navigation, and voice
+                    assistant controls) </li>
             </ul>
         </section>
         <section id="Active-Frequencies">
             <title>Active Frequencies:</title>
             <ul>
-                <li>Active or working stations currently boradcasting a listenable audio signal used by local radio stations</li>
+                <li>Active or working stations currently broadcasting a listenable audio signal used
+                    by local radio stations</li>
                 <li>"Busy" or active stations can cause static due to conflicting frequencies which is why they are not ideal when using the FM transmitter device.
                 </li>
             </ul>
