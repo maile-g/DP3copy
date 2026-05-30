@@ -6,7 +6,10 @@
     <conbody>
         <section id="Bluetooth-Mode">
             <title>Bluetooth Mode</title>
-            <p>When in this mode, the FM transmitter wirelessly receives audio from your mobile/electronic device through Bluetooth connection and broadcasts it over an FM radio frequency.</p>
+            <p>When in this mode, the FM transmitter wirelessly receives audio from your
+                mobile/electronic device through Bluetooth connection and broadcasts it over an FM
+                radio frequency. To learn to use this mode see, <xref href="UNBREAKcableT2.dita"
+                /></p>
             <p>Pros:</p>
             <ul>
                 <li>Provides convenient wireless streaming through mobile/electronic devices.</li>
@@ -15,12 +18,16 @@
             <p>Cons:</p>
             <ul>
                 <li>Audio is compressed wirelessly which can cause a slight loss in "crispness" of sound.</li>
-                <li>Being a secondary wireless relay, (ie: Phone connects to transmitter which connects to car radio) it is more prone to interference or static.</li>
+                <li>Being a secondary wireless relay, (i.e.: Phone connects to transmitter which
+                    connects to car radio) it is more prone to interference or static.</li>
             </ul>
         </section>
         <section id="USB-Flash-Drive-Mode">
             <title>USB Flash Drive Mode</title>
-            <p>In this mode, you can play music files stored on a USB thumb drive by plugging it into the USB Flash Drive Port on the FM transmitter. The device will read the music files and broadcast the audio over an FM radio frequency.</p>
+            <p>In this mode, you can play music files stored on a USB thumb drive by plugging it
+                into the USB Flash Drive Port on the FM transmitter. The device will read the music
+                files and broadcast the audio over an FM radio frequency. To learn the steps for
+                this mode see, <xref href="UNBREAKcableT3.dita"/></p>
             <p>Pros:</p>
             <ul>
                 <li>Superior audio quality by directly playing locally stored audio files through USB, eliminating extra compression and distortion creating clearer sound.</li>
