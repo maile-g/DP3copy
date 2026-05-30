@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="UNBREAKcableR2">
-    <title>Reference Title</title>
-    <shortdesc>Brief description of this reference.</shortdesc>
+    <title>Important Notices and Cautions</title>
+    <shortdesc>This section will cover major cautions and notices when using this
+        device.</shortdesc>
     <refbody>
-        <section>
-            <title>Section Title</title>
-            <p>Reference information goes here.</p>
-        </section>
-        <properties>
-            <prophead>
-                <proptypehd>Property</proptypehd>
-                <propvaluehd>Value</propvaluehd>
-                <propdeschd>Description</propdeschd>
-            </prophead>
-            <property>
-                <proptype>Property Name</proptype>
-                <propvalue>Value</propvalue>
-                <propdesc>Description of the property.</propdesc>
-            </property>
-        </properties>
+        <example>
+            <p>
+                <ul id="ul_h4n_rz5_kjc">
+                    <li><b>Notice: </b>FM signal of the device may weaken in certain locations (i.e.
+                        mountain regions, surrounded by buildings, or in tunnel). If that occurs,
+                        users should pair to a new unused frequency.</li>
+                    <li><b><b>Notice:</b>
+                        </b>The transmitter will automatically connect to the pre-set mobile device
+                        every time it is turned on (If Bluetooth is activated on mobile
+                        device).</li>
+                    <li><b>Notice: </b>If there is an incoming call in music playing mode, the
+                        device will automatically switch telephone mode</li>
+                    <li><b>Notice: </b>If static noise continues after adjusting volumes and
+                        choosing an unused frequency, ensure no power lines are close to the device
+                        as they can cause electromagnetic radiation that can interfere and weaken
+                        the device's FM signal causing the background "buzz" in the audio.</li>
+                    <li><b>Caution:</b> LED display will flash when the car's battery is less than
+                        12 Volt power, to reminding users to charge the car's battery.</li>
+                    <li><b><b>Caution: </b></b>To prevent damage to the device, do not use the
+                        transmitter in extreme high temperatures or in a humid, dusty, corrosive
+                        environment.</li>
+                    <li><b>Caution: </b>Keep the device unplugged from the car's cigarette lighter
+                        or power port when not in use for long periods of time.</li>
+                    <li><b>Caution:</b> Disassembling the device without due permission will void
+                        the warranty on the product.</li>
+                </ul>
+            </p>
+        </example>
     </refbody>
 </reference>
