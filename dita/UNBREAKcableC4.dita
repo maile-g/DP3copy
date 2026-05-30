@@ -11,14 +11,14 @@
             <image href="images/MPButtonEDIT.jpg" placement="break" id="image_plj_syl_jjc"><alt>Image labeling multi-function button on the device.</alt></image>
         </p>
         <table frame="all" rowsep="1" colsep="1" id="table_gyc_5tt_kjc">
-            <title>Key Features of the Multi-Function Button:</title>
+            <title>Key Features of the Multi-Function Button</title>
             <tgroup cols="2">
                 <colspec colnum="1" colname="c1" colwidth="1*"/>
                 <colspec colnum="2" colname="c2" colwidth="1*"/>
                 <thead>
                     <row>
-                        <entry><b>Music-Playing Features</b></entry>
-                        <entry><b>Bluetooth Calling Features</b></entry>
+                        <entry><b>Music-Playing Features</b>:</entry>
+                        <entry><b>Bluetooth Calling Features:</b></entry>
                     </row>
                 </thead>
                 <tbody>
