@@ -12,7 +12,7 @@
                 <cmd>Locate the USB Flash Drive Port on your FM Transmitter.</cmd>
             </step>
             <step>
-                <note id="note_sgs_cxf_kjc">If the transmitter stays in the default mode
+                <note id="note_sgs_cxf_kjc" type="tip">If the transmitter stays in the default mode
                     (Bluetooth), short press the Mode Switch Button once to switch to USB Flash
                     Drive Mode.</note>
                 <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the
@@ -24,5 +24,7 @@
                 <cmd>Use the Multi-Function Button music playing features to control music playback on the drive.</cmd>
             </step>
         </steps>
+        <result id="result_vk4_kwt_kjc">You are now successfully using USB Flash Drive Mode and can
+            listen to your downloaded music in your car.</result>
     </taskbody>
 </task>
