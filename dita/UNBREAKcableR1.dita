@@ -1,24 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="UNBREAKcableR1">
-    <title>Reference Title</title>
-    <shortdesc>Brief description of this reference.</shortdesc>
+    <title>Product Specifications</title>
+    <shortdesc>This table outlines details on the FM Transmitter's main conditions and requirements
+        for use.</shortdesc>
     <refbody>
-        <section>
-            <title>Section Title</title>
-            <p>Reference information goes here.</p>
-        </section>
-        <properties>
-            <prophead>
-                <proptypehd>Property</proptypehd>
-                <propvaluehd>Value</propvaluehd>
-                <propdeschd>Description</propdeschd>
-            </prophead>
-            <property>
-                <proptype>Property Name</proptype>
-                <propvalue>Value</propvalue>
-                <propdesc>Description of the property.</propdesc>
-            </property>
-        </properties>
+        <example>
+            <p>
+                <table frame="all" rowsep="1" colsep="1" id="table_l4h_hv5_kjc">
+                    <title>Product Specifications/Details</title>
+                    <tgroup cols="2">
+                        <colspec colnum="1" colname="c1" colwidth="1.03*"/>
+                        <colspec colnum="2" colname="c2" colwidth="0.97*"/>
+                        <tbody>
+                            <row>
+                                <entry>Bluetooth Connection Distance</entry>
+                                <entry>10m (meters) (Max.)</entry>
+                            </row>
+                            <row>
+                                <entry>Frequency Range</entry>
+                                <entry>87.5-108.0MHz</entry>
+                            </row>
+                            <row>
+                                <entry>FM Transmission Distance</entry>
+                                <entry>Approx 3m (meters)</entry>
+                            </row>
+                            <row>
+                                <entry>USB Output</entry>
+                                <entry>QC 3.0 (5V/3A, 9V/2A, 12V/1.5A)</entry>
+                            </row>
+                            <row>
+                                <entry>Type-C Output</entry>
+                                <entry>PD 3.0 (5V/3A, 9V/2A. 9V/2.22A, 12V/1.5A)</entry>
+                            </row>
+                            <row>
+                                <entry>Shared Output</entry>
+                                <entry>5V/4.8A (Max.)</entry>
+                            </row>
+                            <row>
+                                <entry>Audio Format</entry>
+                                <entry>MP3, WMA, MAV, FLAC</entry>
+                            </row>
+                            <row>
+                                <entry>USB Flash Drive Capacity</entry>
+                                <entry>64 GB (Max.)</entry>
+                            </row>
+                            <row>
+                                <entry>Product Weight</entry>
+                                <entry>Approx. 38g (grams)</entry>
+                            </row>
+                            <row>
+                                <entry>Product Size</entry>
+                                <entry>Approx. 46.0*46.7*79.77 mm (millimeters)</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </example>
     </refbody>
 </reference>
