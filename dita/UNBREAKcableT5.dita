@@ -6,24 +6,31 @@
         devices.</shortdesc>
     <taskbody>
         <prereq>
-            <p>The only prequirement to this task is having a type-C or USB-A charging cable.</p>
+            <p>The only prerequisite needed for this task is having a Type-C or USB-A charging
+                cable.</p>
         </prereq>
         <context>
             <p>When wanting to charge your devices you can use both USB type ports for quick
-                    charging.<note id="note_qbs_tm5_kjc">The quick-charging feature can only be
-                    activated by using only one of the quick-charging ports at a time.</note></p>
+                    charging.<note id="note_qbs_tm5_kjc" type="important">The quick-charging feature
+                    can only be activated by using only one of the quick-charging ports at a
+                    time.</note></p>
         </context>
         <steps>
             <step>
-                <cmd>First step command.</cmd>
-                <info>Additional information about this step.</info>
+                <cmd>Locate the two quick-charging ports on the device. (QC 3.0 and PD USB-C)</cmd>
             </step>
             <step>
-                <cmd>Second step command.</cmd>
+                <cmd>Plug in the charging cable (not-included with device) into compatible charging
+                    port.</cmd>
+            </step>
+            <step>
+                <cmd>Plug charging cable into mobile/electronic device.</cmd>
             </step>
         </steps>
         <result>
-            <p>Expected result after completing this task.</p>
+            <p>The FM transmitter now can serve as a charger for mobile devices.<note
+                    id="note_ij2_4p5_kjc">The Audio USB Flash Drive Port can be used for charging,
+                    but this port has no quick-charging features.</note></p>
         </result>
     </taskbody>
 </task>
