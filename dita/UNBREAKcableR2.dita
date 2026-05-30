@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="UNBREAKcableR2">
+    <title>Reference Title</title>
+    <shortdesc>Brief description of this reference.</shortdesc>
+    <refbody>
+        <section>
+            <title>Section Title</title>
+            <p>Reference information goes here.</p>
+        </section>
+        <properties>
+            <prophead>
+                <proptypehd>Property</proptypehd>
+                <propvaluehd>Value</propvaluehd>
+                <propdeschd>Description</propdeschd>
+            </prophead>
+            <property>
+                <proptype>Property Name</proptype>
+                <propvalue>Value</propvalue>
+                <propdesc>Description of the property.</propdesc>
+            </property>
+        </properties>
+    </refbody>
+</reference>
