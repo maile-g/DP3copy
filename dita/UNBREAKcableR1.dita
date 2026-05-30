@@ -5,7 +5,7 @@
     <shortdesc>This table outlines details on the FM Transmitter's main conditions and requirements
         for use.</shortdesc>
     <refbody>
-        <example>
+        <example id="Product_Specifications">
             <p>
                 <table frame="all" rowsep="1" colsep="1" id="table_l4h_hv5_kjc">
                     <title>Product Specifications/Details</title>
