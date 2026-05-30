@@ -13,14 +13,49 @@
         <steps>
             <step>
                 <cmd>Set Baseline Volume.</cmd>
-                <info>A baseline volume level refers to an optimal,undistorted sound level .</info>
+                <info>A baseline volume level refers to an optimal, undistorted sound level, which
+                    can be achieved by adjusting volume of the car's radio and/or the connected
+                    device.</info>
+                <substeps>
+                    <substep>
+                        <cmd>Adjust the volume of the car radio to 1/3 or 1/2 of its capacity. To
+                            avoid audio distortion or static sound, do not exceed 2/3.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If using Bluetooth Mode, adjust the volume of the connected mobile or
+                            electronic device to 2/3 or 4/5 of its sound capacity. Do not set
+                            connected device to full volume.</cmd>
+                    </substep>
+                </substeps>
             </step>
             <step>
-                <cmd>Second step command.</cmd>
+                <cmd>Use Bass Booster Button</cmd>
+                <info>This button can be used to give audio a stronger bass, creating a more dynamic
+                    sound effect through the car's radio.</info>
+                <substeps>
+                    <substep>
+                        <cmd>Locate the Bass Button on the device<image href="images/T4Step2.jpg"
+                                placement="break" id="image_u3c_535_kjc" width="350" height="300"
+                                alt="image of Bass Booster Button labeled on transmitter."/></cmd>
+                    </substep>
+                    <substep>
+                        <note id="note_ipm_qg5_kjc">Long press Bass Booster 1x to turn ON/OFF the
+                            Ring Light on the transmitter device. </note>
+                        <cmd>Short Press the button 1x while music is playing to activate.</cmd>
+                        <info>Short pressing 1x again will turn off Bass Booster</info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <note id="note_yzp_dk5_kjc" type="tip">Play music or sound for this step to
+                    accurately adjust volume</note>
+                <cmd>Toggle the volume up/down on the device using the Multi-Function joystick to
+                    fine-tune the volume on the transmitter.</cmd>
             </step>
         </steps>
         <result>
-            <p>Expected result after completing this task.</p>
+            <p>After completing these steps, the sound playing through your car's radio should be at
+                its optimal audio quality.</p>
         </result>
     </taskbody>
 </task>
