@@ -20,9 +20,11 @@
                 <note id="note_sgs_cxf_kjc" type="trouble">If the transmitter stays in the default
                     mode (Bluetooth), short press the Mode Switch Button once to switch to USB Flash
                     Drive Mode.</note>
-                <cmd>Plug in your USB thumb drive (loaded with supported formats) and plug into the
-                    music port.<image href="images/T3Step2.jpg" placement="break"
-                        id="image_ewm_d15_kjc" width="480" height="280">
+                <cmd>Plug in your USB thumb drive (loaded with <xref
+                        href="UNBREAKcableR1.dita#UNBREAKcableR1/table_l4h_hv5_kjc">supported
+                        formats</xref>) and plug into the music port.<image
+                        href="images/T3Step2.jpg" placement="break" id="image_ewm_d15_kjc"
+                        width="480" height="280">
                         <alt>Image of thumb drive plugged into FM Transmitter.</alt>
                     </image></cmd>
                 <stepresult>The transmitter should automatically detect the drive and begin playing
@@ -32,7 +34,7 @@
                 <cmd>Use the Multi-Function Button music playing features to control music playback
                     on the drive.<image href="images/MPButtonEDIT.jpg" placement="break"
                         id="image_jsn_xc5_kjc"> 
-                        <alt>Image of Mult-Function Button labeled</alt></image></cmd>
+                        <alt>Image of Multifunction Button labeled</alt></image></cmd>
                 <info>See the table,<xref
                         href="UNBREAKcableC4.dita#UNBREAKcableC4/table_gyc_5tt_kjc"/> for details on
                     the Multi-Function-Button's music-playing features</info>
