@@ -24,10 +24,12 @@
             <step>
                 <cmd>Plug in the charging cable (not-included with device) into compatible charging
                         port.<image href="images/T5S2.jpg" placement="break" id="image_e1g_gt5_kjc"
-                        width="280" height="350"/></cmd>
+                        width="280" height="350" alt=""/></cmd>
             </step>
             <step>
-                <cmd>Plug charging cable into mobile/electronic device.</cmd>
+                <cmd>Plug charging cable into mobile/electronic device.<image
+                        href="images/T5S3Edited.jpg" placement="break" id="image_qsq_tt5_kjc"
+                        width="360" height="218" alt=""/></cmd>
             </step>
         </steps>
         <result>
