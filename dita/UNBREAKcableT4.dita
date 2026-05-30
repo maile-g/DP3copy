@@ -35,8 +35,8 @@
                 <substeps>
                     <substep>
                         <cmd>Locate the Bass Button on the device<image href="images/T4Step2.jpg"
-                                placement="break" id="image_u3c_535_kjc" width="350" height="300"
-                                alt="image of Bass Booster Button labeled on transmitter."/></cmd>
+                                placement="break" id="image_u3c_535_kjc" width="350" height="300">
+                                <alt>image of Bass Booster Button labeled on transmitter</alt></image></cmd>
                     </substep>
                     <substep>
                         <note id="note_ipm_qg5_kjc">Long press Bass Booster 1x to turn ON/OFF the

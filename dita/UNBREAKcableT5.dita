@@ -6,10 +6,13 @@
         devices.</shortdesc>
     <taskbody>
         <prereq>
+            <p>The only prequirement to this task is having a type-C or USB-A charging cable.</p>
+        </prereq>
+        <context>
             <p>When wanting to charge your devices you can use both USB type ports for quick
                     charging.<note id="note_qbs_tm5_kjc">The quick-charging feature can only be
                     activated by using only one of the quick-charging ports at a time.</note></p>
-        </prereq>
+        </context>
         <steps>
             <step>
                 <cmd>First step command.</cmd>
