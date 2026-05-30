@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="UNBREAKcableT5">
-    <title>Task Title</title>
-    <shortdesc>Brief description of this task.</shortdesc>
+    <title>Charging Devices on FM Transmitter</title>
+    <shortdesc>This device includes two separate USB port for quick-charging mobile/electronic
+        devices.</shortdesc>
     <taskbody>
         <prereq>
-            <p>Prerequisites for this task.</p>
+            <p>When wanting to charge your devices you can use both USB type ports for quick
+                    charging.<note id="note_qbs_tm5_kjc">The quick-charging feature can only be
+                    activated by using only one of the quick-charging ports at a time.</note></p>
         </prereq>
-        <context>
-            <p>Context and background information.</p>
-        </context>
         <steps>
             <step>
                 <cmd>First step command.</cmd>
