@@ -11,7 +11,10 @@
         </context>
         <steps>
             <step>
-                <cmd>Locate the USB Flash Drive Port on your FM Transmitter.</cmd>
+                <cmd>Locate the USB Flash Drive Port on your FM Transmitter.<image
+                        href="images/USBT3Step1.jpg" placement="break" id="image_ajc_r15_kjc"
+                        width="400" height="280"
+                        alt="image of transmitter will USB Flash Drive Port labeled"/></cmd>
             </step>
             <step>
                 <note id="note_sgs_cxf_kjc" type="trouble">If the transmitter stays in the default
@@ -25,11 +28,11 @@
                     music files.</stepresult>
             </step>
             <step>
-                <note id="note_kd4_nyt_kjc" type="note">See the table,<xref
-                        href="UNBREAKcableC4.dita#UNBREAKcableC4/table_gyc_5tt_kjc"/> for details on
-                    the Multi-Function-Button's music-playing features</note>
                 <cmd>Use the Multi-Function Button music playing features to control music playback
-                    on the drive. </cmd>
+                    on the drive.</cmd>
+                <info>See the table,<xref
+                        href="UNBREAKcableC4.dita#UNBREAKcableC4/table_gyc_5tt_kjc"/> for details on
+                    the Multi-Function-Button's music-playing features</info>
             </step>
         </steps>
         <result id="result_vk4_kwt_kjc">You are now successfully using USB Flash Drive Mode and can
