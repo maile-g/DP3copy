@@ -17,7 +17,9 @@
         </context>
         <steps>
             <step>
-                <cmd>Locate the two quick-charging ports on the device. (QC 3.0 and PD USB-C)</cmd>
+                <cmd>Locate the two quick-charging ports on the device. (QC 3.0 and PD USB-C)<image
+                        href="images/T5S1.jpg" placement="break" id="image_xb1_wr5_kjc"
+                        alt="Image of charging ports labeled on transmitter"/></cmd>
             </step>
             <step>
                 <cmd>Plug in the charging cable (not-included with device) into compatible charging
