@@ -9,6 +9,8 @@
         </context>
         <steps>
             <step>
+                <note id="note_kfj_3ld_ljc" type="tip">You can typically find unused stations at the
+                    high-end or low-end of your car's station dial.</note>
                 <cmd>Tune the car radio to an unused FM radio frequency. <image
                         href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
                         width="150" height="200">
