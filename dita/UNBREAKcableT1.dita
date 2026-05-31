@@ -9,8 +9,6 @@
         </context>
         <steps>
             <step>
-                <note id="note_ckm_4rm_jjc" type="note">LED Display will automatically turn on when
-                    plugged in.</note>
                 <cmd>Tune the car radio to an unused FM radio frequency. <image
                         href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
                         width="150" height="200">
@@ -18,7 +16,9 @@
                     </image></cmd>
             </step>
             <step>
-                <cmd>Plug in the device into your car's cigarette lighter or power port. <image
+                <note id="note_vcg_bld_ljc">LED Display will automatically turn on when plugged
+                    in.</note>
+                <cmd>Plug in the device into your car's cigarette lighter or power port.<image
                         href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc"
                         width="160" height="200">
                         <alt>Image of transmitter plugged into car's power port.</alt>
