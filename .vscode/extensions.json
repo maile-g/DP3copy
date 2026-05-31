@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "vscjava.vscode-maven"
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-debug"
     ]
 }

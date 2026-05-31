@@ -13,7 +13,8 @@
     "vscode": {
       "extensions": [
         "JeremyJeanne.ditacraft",
-        "vscjava.vscode-java-test"
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-pack"
       ],
       "settings": {
         "ditacraft.ditaOtPath": "/opt/dita-ot",
