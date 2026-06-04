@@ -18,22 +18,22 @@
         <steps>
             <step>
                 <cmd>Locate the two quick-charging ports on the device. (QC 3.0 and PD USB-C)<image
-                        href="images/T5S1.jpg" placement="break" id="image_xb1_wr5_kjc" width="150"
-                        height="150">
+                        href="images/T5S1.jpg" placement="break" id="image_xb1_wr5_kjc" width="170"
+                        height="170">
                         <alt>Image of charging ports labeled on transmitter</alt>
                     </image></cmd>
             </step>
             <step>
                 <cmd>Plug in the charging cable (not-included with device) into compatible charging
                         port.<image href="images/T5S2.jpg" placement="break" id="image_e1g_gt5_kjc"
-                        width="130" height="160">
+                        width="150" height="180">
                         <alt>Image of charging cable plugged into transmitter</alt>
                     </image></cmd>
             </step>
             <step>
                 <cmd>Plug charging cable into mobile/electronic device.<image
                         href="images/T5S3Edited.jpg" placement="break" id="image_qsq_tt5_kjc"
-                        width="230" height="120">
+                        width="280" height="170">
                         <alt>Image of charging cable plugged into mobile device</alt>
                     </image></cmd>
             </step>
