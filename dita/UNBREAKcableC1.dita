@@ -28,7 +28,8 @@
                 <li>Bass Booster: Provides bass music quality by
                     <?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035551+0000"?>amplifying<?oxy_insert_end?>
                     low-frequ<?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035605+0000"?>en<?oxy_insert_end?>cy
-                    audio when activated.</li>
+                    audio when activated.<p>For more details see, <xref href="UNBREAKcableR1.dita"/>
+                        and <xref href="UNBREAKcableR2.dita"/></p></li>
             </ol>
         </section>
     </conbody>
