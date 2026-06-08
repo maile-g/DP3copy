@@ -13,7 +13,7 @@
             <step>
                 <cmd>Locate the USB Flash Drive Port on your FM Transmitter.<image
                         href="images/USBT3Step1.jpg" placement="break" id="image_ajc_r15_kjc"
-                        width="210" height="150">
+                        width="230" height="170">
                         <alt>="image of transmitter with USB Flash Drive Port labeled"</alt>
                     </image></cmd>
             </step>
@@ -25,7 +25,7 @@
                         href="UNBREAKcableR1.dita#UNBREAKcableR1/table_l4h_hv5_kjc">supported
                         formats</xref>) and plug into the music port.<image
                         href="images/T3Step2.jpg" placement="break" id="image_ewm_d15_kjc"
-                        width="200" height="120">
+                        width="265" height="180">
                         <alt>Image of thumb drive plugged into FM Transmitter.</alt>
                     </image></cmd>
                 <stepresult>The transmitter should automatically detect the drive and begin playing
@@ -34,7 +34,7 @@
             <step>
                 <cmd>Use the Multi-Function Button music playing features to control music playback
                     on the drive.<image href="images/MPButtonEDIT.jpg" placement="break"
-                        id="image_jsn_xc5_kjc" width="200" height="150">
+                        id="image_jsn_xc5_kjc" width="230" height="200">
                         <alt>Image of Multi-Function Button labeled</alt>
                     </image></cmd>
                 <info>See,<xref
