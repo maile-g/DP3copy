@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="UNBREAKcableSourceAckn">
-    <title>Topic Title</title>
-    <shortdesc>Brief description of this topic.</shortdesc>
+    <title>Image Source Acknowledgement</title>
+    <shortdesc>The following is the sources to all the images used throughout the documentation. </shortdesc>
     <body>
-        <p>Topic content goes here.</p>
         <section>
-            <title>Section Title</title>
-            <p>Additional content.</p>
+            <title>Image Source List:</title>
+            <ul id="ul_cgm_vqt_2kc">
+                <li>Image 1</li>
+            </ul>
         </section>
     </body>
 </topic>
