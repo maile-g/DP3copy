@@ -14,11 +14,8 @@
         <section id="core-components">
             <title>Core Components of the Device:</title>
             <p>
-                <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>
                 <fig id="fig_xkq_bf5_fkc">
-                    <?oxy_insert_end?>
                     <title>Components Labeled</title>
-                    <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>
                     <image href="images/USBFlashDrivePort.jpg" placement="break"
                         id="image_jrt_kpb_kjc">
                         <alt>Image that shows the labeled components of the device</alt>
@@ -39,11 +36,9 @@
                     transmitter.</li>
                 <li>Multi-Function Button: A joystick that acts as a central-hub for multiple
                     functions.</li>
-                <li>Bass Booster: Provides bass music quality by<?oxy_insert_end?>
-                    <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>amplifying<?oxy_insert_end?>
-                    low-frequ<?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035605+0000"?>en<?oxy_insert_end?>cy
-                    audio when activated.<p>For more details see, <xref href="UNBREAKcableR1.dita"/>
-                        and <xref href="UNBREAKcableR2.dita"/></p></li>
+                <li>Bass Booster: Provides bass music quality by amplifying low-frequency audio when
+                        activated.<p>For more details see, <xref href="UNBREAKcableR1.dita"/> and
+                            <xref href="UNBREAKcableR2.dita"/></p></li>
             </ol>
         </section>
     </conbody>
