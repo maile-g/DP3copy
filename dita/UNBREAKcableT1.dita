@@ -5,7 +5,10 @@
     <shortdesc>To begin using the device, you need to set it up to your car's radio station.</shortdesc>
     <taskbody>
         <context>
-            <p>Setting up the device includes plugging the device into your car and channeling an unused radio frequency.</p>
+            <p>Setting up the device includes plugging the device into your car and channeling an
+                unused radio frequency. A video tutorial for the set-up is also provided <xref
+                    href="https://youtu.be/-i1qidUezQI" format="html" scope="external"
+                >here</xref>.</p>
         </context>
         <steps>
             <step>
