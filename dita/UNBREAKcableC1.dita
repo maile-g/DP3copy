@@ -13,24 +13,32 @@
             (up to 64GB), and has two extra ports for charging electronic devices.</p>
         <section id="core-components">
             <title>Core Components of the Device:</title>
-                    <p>
+            <p>
                 <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>
                 <fig id="fig_xkq_bf5_fkc">
-                    <title>Core Components</title>
-                    <image href="images/USBFlashDrivePort.jpg" placement="break" id="image_jrt_kpb_kjc">
+                    <?oxy_insert_end?>
+                    <title>Components Labeled</title>
+                    <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>
+                    <image href="images/USBFlashDrivePort.jpg" placement="break"
+                        id="image_jrt_kpb_kjc">
                         <alt>Image that shows the labeled components of the device</alt>
                     </image>
                 </fig>
             </p>
             <ol>
-                <li>USB Flash Drive Port: USB-A audio port for playing music files on USB thumb drive. </li>
-                <li>MIC: Used for hands-free calling and activating voice assistants on connected mobile/electronic device.</li>
+                <li>USB Flash Drive Port: USB-A audio port for playing music files on USB thumb
+                    drive. </li>
+                <li>MIC: Used for hands-free calling and activating voice assistants on connected
+                    mobile/electronic device.</li>
                 <li>QC 3.0 Port: Quick-charge(QC) USB-A port designed for rapid charging.</li>
                 <li>PD USB-C Port: Power Delivery (PD) type-C port also for rapid charging.</li>
                 <li>LED Display: Screen that displays radio frequency and car battery voltage.</li>
-                <li>Mode Switch: allows user to toggle between Bluetooth Mode and USB Flash Drive Mode.</li>
-                <li>(CH) Channel Button: used to manually switch frequencies on the FM transmitter.</li>
-                <li>Multi-Function Button: A joystick that acts as a central-hub for multiple functions.</li>
+                <li>Mode Switch: allows user to toggle between Bluetooth Mode and USB Flash Drive
+                    Mode.</li>
+                <li>(CH) Channel Button: used to manually switch frequencies on the FM
+                    transmitter.</li>
+                <li>Multi-Function Button: A joystick that acts as a central-hub for multiple
+                    functions.</li>
                 <li>Bass Booster: Provides bass music quality by
                     <?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035551+0000"?>amplifying<?oxy_insert_end?>
                     low-frequ<?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035605+0000"?>en<?oxy_insert_end?>cy
