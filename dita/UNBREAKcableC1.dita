@@ -39,8 +39,8 @@
                     transmitter.</li>
                 <li>Multi-Function Button: A joystick that acts as a central-hub for multiple
                     functions.</li>
-                <li>Bass Booster: Provides bass music quality by
-                    <?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035551+0000"?>amplifying<?oxy_insert_end?>
+                <li>Bass Booster: Provides bass music quality by<?oxy_insert_end?>
+                    <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>amplifying<?oxy_insert_end?>
                     low-frequ<?oxy_insert_start author="Maile Gonsalves" timestamp="20260528T035605+0000"?>en<?oxy_insert_end?>cy
                     audio when activated.<p>For more details see, <xref href="UNBREAKcableR1.dita"/>
                         and <xref href="UNBREAKcableR2.dita"/></p></li>
