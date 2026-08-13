@@ -16,11 +16,11 @@
                     <p>
                 <?oxy_insert_start author="Maile Gonsalves" timestamp="20260813T191910+0000"?>
                 <fig id="fig_xkq_bf5_fkc">
-                    <p><?oxy_insert_end?>Core Components</p>
+                    <title>Core Components</title>
+                    <image href="images/USBFlashDrivePort.jpg" placement="break" id="image_jrt_kpb_kjc">
+                        <alt>Image that shows the labeled components of the device</alt>
+                    </image>
                 </fig>
-                <image href="images/USBFlashDrivePort.jpg" placement="break" id="image_jrt_kpb_kjc">
-                    <alt>Image that shows the labeled components of the device</alt>
-                </image>
             </p>
             <ol>
                 <li>USB Flash Drive Port: USB-A audio port for playing music files on USB thumb drive. </li>
